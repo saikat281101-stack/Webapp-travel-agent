@@ -1,0 +1,61 @@
+TRAVEL AGENT KNOWLEDGE BASE
+All prices and policies below are fictional and intended only for this lab.
+
+DESTINATION: Dubai
+Package: Dubai Explorer
+Duration: 5 days / 4 nights
+Price: USD 899 per person
+Includes: 4-star hotel, airport transfers, daily breakfast, Dubai city tour, desert safari, Burj Khalifa observation deck ticket.
+Does not include: Flights, visa fees, travel insurance, personal expenses.
+Best time to visit: November to March.
+Notes: Passport should generally have at least 6 months validity from the travel date. Visa requirements depend on nationality; travelers should verify current rules with the relevant authorities.
+
+DESTINATION: Bali
+Package: Bali Relax & Explore
+Duration: 6 days / 5 nights
+Price: USD 749 per person
+Includes: Hotel, breakfast, airport transfers, Ubud day tour, Tanah Lot visit, and one spa session.
+Does not include: Flights, visa fees, travel insurance, lunches and dinners.
+Best time to visit: April to October.
+Notes: Entry requirements vary by nationality and can change.
+
+DESTINATION: Paris
+Package: Paris Highlights
+Duration: 5 days / 4 nights
+Price: USD 1,199 per person
+Includes: 3-star central hotel, breakfast, airport transfer, Seine cruise, Eiffel Tower visit, and Louvre Museum ticket.
+Does not include: Flights, Schengen visa, travel insurance, city tax, personal expenses.
+Best time to visit: April to June and September to October.
+
+DESTINATION: Singapore
+Package: Singapore Family Escape
+Duration: 4 days / 3 nights
+Price: USD 699 per person
+Includes: Hotel, breakfast, airport transfers, city tour, Gardens by the Bay, and Sentosa day visit.
+Does not include: Flights, visa fees, insurance, optional attractions.
+Best time to visit: Year-round.
+
+BOOKING POLICY
+A 25% deposit is required to confirm a package.
+The remaining balance is due 30 days before departure.
+Bookings made within 30 days of departure require full payment.
+
+CANCELLATION POLICY
+More than 30 days before departure: 15% cancellation charge.
+15 to 30 days before departure: 40% cancellation charge.
+Less than 15 days before departure: 75% cancellation charge.
+Some hotels, flights, and special-rate services may be non-refundable.
+
+CHANGES
+One date-change request is permitted subject to supplier availability.
+Any fare difference, supplier fee, or change fee must be paid by the traveler.
+
+TRAVEL INSURANCE
+Travel insurance is strongly recommended and is not included unless a package explicitly states otherwise.
+
+SUPPORT
+General support hours: Monday-Friday, 09:00-18:00.
+Emergency assistance is intended for travelers who are currently on a booked trip.
+
+RAG INSTRUCTION
+When answering a customer question, use the retrieved knowledge-base context. If the answer is not present in the context, say that the information is not available in the knowledge base.
